@@ -1,2 +1,2 @@
 # Frontend-Project
-This frontend includes lots of fie and very cool projects.
+This frontend includes lots of fine and very cool projects.
